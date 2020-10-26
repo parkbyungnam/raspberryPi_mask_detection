@@ -1,4 +1,4 @@
-# raspberryPi_mask_detection
+# raspberryPi_mask_detection Using CNN
 ## Project title : Mask sheriff
 
 ### 0. Index
