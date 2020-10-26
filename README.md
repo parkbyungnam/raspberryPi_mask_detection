@@ -17,7 +17,7 @@ So, We hope that workers' emotional consumption will be less.
 
 
 ### 3. Requirement
-Hardware
+**Hardware**
 * raspberry Pi 4 (8GB)
 * raspberry Pi camera module v2
 * raspberry Pi 7inch touch screen
@@ -26,9 +26,9 @@ Hardware
 * case
 * cooling pan
 
-environment
+**environment**
 
-  $ pip install -r requirements.txt
+    $ pip install -r requirements.txt
 
 * Buster
 * tensorflow 2+
