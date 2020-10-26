@@ -26,7 +26,7 @@ So, We hope that workers' emotional consumption will be less.
 * case
 * cooling pan
 
-**environment**
+**Environment**
 
     $ pip install -r requirements.txt
 
