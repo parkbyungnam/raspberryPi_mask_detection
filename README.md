@@ -1,4 +1,4 @@
-# Project Title : raspberryPi mask sheriff
+# Project Title : raspberry Pi is a mask sheriff
 
 
 # 0. Index
