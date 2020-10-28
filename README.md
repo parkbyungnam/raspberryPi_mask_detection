@@ -111,6 +111,13 @@ Assemble the housing onto the base. Important - Hold base on table while adjusti
 
 <img src="https://user-images.githubusercontent.com/57394605/97403769-5df2fa80-1938-11eb-9955-6c6a8ef39284.png" alt="drawing" width="800">
 
+## 5-2. Build a Software Environment
+### OS
+
+### SSH & VNC
+
+### Packages
+
 
 ------
 # x. Plan for the Publication & Dissemination of Project Results
