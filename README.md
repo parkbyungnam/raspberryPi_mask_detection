@@ -3,7 +3,7 @@
 
 # 0. Index
 
-
+------
 # 1. Background, Purpose, and Expected Outcomes
 The spread of Corona 19 made it mandatory to wear a mask in public places.
 We started to eliminate the trouble between employees and non-masks.
@@ -11,15 +11,15 @@ So, We hope that workers' emotional consumption will be less.
 
 ![계찰구사진](https://user-images.githubusercontent.com/57394605/97212004-2b93b100-1803-11eb-82e7-813d1f0659eb.png)
 
-
+------
 # 2. Overview
 
 
-
+------
 # 3. Description
 
 
-
+------
 # 4. Requirement
 ## 4-1. Hardware
 * raspberry Pi 4 (8GB)
@@ -43,7 +43,8 @@ So, We hope that workers' emotional consumption will be less.
 You can use this command. However, Some packages are not registered with pip. It will be imcomplete.
 
     $ pip install -r requirements.txt
-
+   
+------
 # 5. Install
 ## 5-1. Appliance assembly
 
@@ -101,10 +102,10 @@ Assemble the housing onto the base. Important - Hold base on table while adjusti
 
 ![조립완성](https://user-images.githubusercontent.com/57394605/97403769-5df2fa80-1938-11eb-9955-6c6a8ef39284.png)
 
-
+------
 # x. Plan for the Publication & Dissemination of Project Results
 
-
+------
 # x. Timeline
 
 
