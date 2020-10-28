@@ -9,7 +9,7 @@ The spread of Corona 19 made it mandatory to wear a mask in public places.
 We started to eliminate the trouble between employees and non-masks.
 So, We hope that workers' emotional consumption will be less.
 
-![계찰구사진](https://user-images.githubusercontent.com/57394605/97212004-2b93b100-1803-11eb-82e7-813d1f0659eb.png){: .center}
+![계찰구사진](https://user-images.githubusercontent.com/57394605/97212004-2b93b100-1803-11eb-82e7-813d1f0659eb.png)
 
 ------
 # 2. Overview
@@ -31,7 +31,7 @@ So, We hope that workers' emotional consumption will be less.
 * SG-90 Servo motor
 * Test Socket Jumper Cable(M/F)
 
-![구매목록](https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png){:width="600" height="400"}
+![구매목록](https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png =600x400)
 
 ## 4-2. Environment
 * Buster (Release date : 2020-08-20)
