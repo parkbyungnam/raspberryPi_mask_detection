@@ -1,4 +1,4 @@
-# raspberryPi mask sheriff 
+# raspberryPi mask sheriff
 
 
 # 0. Index
