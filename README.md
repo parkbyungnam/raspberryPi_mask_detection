@@ -55,11 +55,13 @@ Route the long end of the white cable under the display board. Attach the long e
 
 <img src="https://user-images.githubusercontent.com/57394605/97401836-e2437e80-1934-11eb-94ea-50b6a93bbe97.png" alt="drawing" width="800">
 
+
 ### Step 2
 
 Mount the display into the case as shown and feed the camera and white cables as shown.
 
 <img src="https://user-images.githubusercontent.com/57394605/97401845-e66f9c00-1934-11eb-837e-f6ae1d85c696.png" alt="drawing" width="800">
+
 
 ### Step 3
 
@@ -67,11 +69,13 @@ Screw in the display using the four silver countersink screws.
 
 <img src="https://user-images.githubusercontent.com/57394605/97401859-eb345000-1934-11eb-8094-2719725d116d.png" alt="drawing" width="800">
 
+
 ### Step 4
 
 Attach camera and front panel with six black screws.
 
 <img src="https://user-images.githubusercontent.com/57394605/97401863-ec657d00-1934-11eb-9d0d-0157de7cefeb.png" alt="drawing" width="800">
+
 
 ### Step 5
 
@@ -99,6 +103,7 @@ Connect the wire to the GPIO pins. We suggest starting with low speed as it is q
 Assemble the door. Be careful not to pinch the white cables.
 
 <img src="https://user-images.githubusercontent.com/57394605/97401869-eec7d700-1934-11eb-8bf3-03ae857a07cc.png" alt="drawing" width="800">
+
 
 ### Step 9
 
