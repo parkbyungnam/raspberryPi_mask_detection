@@ -32,6 +32,8 @@ So, We hope that workers' emotional consumption will be less.
 * Test Socket Jumper Cable(M/F)
 
 ![구매목록](https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png)
+![구매목록2] <img src="https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png" alt="drawing" width="600"/>
+
 
 ## 4-2. Environment
 * Buster (Release date : 2020-08-20)
