@@ -31,7 +31,7 @@ So, We hope that workers' emotional consumption will be less.
 * SG-90 Servo motor
 * Test Socket Jumper Cable(M/F)
 
-<img src="https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png" alt="drawing" width="600">
+<img src="https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png" alt="drawing" width="800">
 
 
 ## 4-2. Environment
@@ -53,7 +53,7 @@ You can use this command. However, Some packages are not registered with pip. It
 
 Route the long end of the white cable under the display board. Attach the long end to the camera as shown. Install the display board onto the display with the supplied gold m3 screws. The standoffs that came with the display can be used to attach HAT boards to the Raspberry Pi.  Attach the short white cable to the display board. Make sure the writing on the cable and blue tab is facing up like the photo.
 
-<img src="https://user-images.githubusercontent.com/57394605/97401836-e2437e80-1934-11eb-94ea-50b6a93bbe97.png" alt="drawing" width="600">
+<img src="https://user-images.githubusercontent.com/57394605/97401836-e2437e80-1934-11eb-94ea-50b6a93bbe97.png" alt="drawing" width="800">
 
 ### Step 2
 
