@@ -31,7 +31,7 @@ So, We hope that workers' emotional consumption will be less.
 * SG-90 Servo motor
 * Test Socket Jumper Cable(M/F)
 
-![구매목록](https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png =600x400)
+![구매목록](https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png =600x)
 
 ## 4-2. Environment
 * Buster (Release date : 2020-08-20)
