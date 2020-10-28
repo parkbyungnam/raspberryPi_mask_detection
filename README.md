@@ -21,7 +21,7 @@ So, We hope that workers' emotional consumption will be less.
 
 
 ### 4. Requirement
-**Hardware**
+**4-1. Hardware**
 * raspberry Pi 4 (8GB)
 * raspberry Pi camera module v2
 * raspberry Pi 7-inch touch screen
@@ -33,7 +33,7 @@ So, We hope that workers' emotional consumption will be less.
 
 ![구매목록](https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png)
 
-**Environment**
+**4-2. Environment**
 * Buster (Release date : 2020-08-20)
 * tensorflow 2.1.0
 * OpenCV 4.1.2
@@ -46,33 +46,34 @@ You can use this command. However, Some packages are not registered with pip. It
 
 ### 5. Install
 **5-1. Appliance assembly**
+
 *Step 1*
 
-Route the long end of the white cable under the display board. Attach the long end to the camera as shown. Install the display board onto the display with the supplied gold m3 screws. The standoffs that came with the display can be used to attach HAT boards to the Raspberry Pi.  Attach the short white cable to the display board. Make sure the writing on the cable and blue tab is facing up like the photo.
+    Route the long end of the white cable under the display board. Attach the long end to the camera as shown. Install the display board onto the display with the supplied gold m3 screws. The standoffs that came with the display can be used to attach HAT boards to the Raspberry Pi.  Attach the short white cable to the display board. Make sure the writing on the cable and blue tab is facing up like the photo.
 
 ![조립1](https://user-images.githubusercontent.com/57394605/97401836-e2437e80-1934-11eb-94ea-50b6a93bbe97.png)
 
 *Step 2*
 
-Mount the display into the case as shown and feed the camera and white cables as shown.
+    Mount the display into the case as shown and feed the camera and white cables as shown.
 
 ![조립2](https://user-images.githubusercontent.com/57394605/97401845-e66f9c00-1934-11eb-837e-f6ae1d85c696.png)
 
 *Step 3*
 
-Screw in the display using the four silver countersink screws.
+    Screw in the display using the four silver countersink screws.
 
 ![조립3](https://user-images.githubusercontent.com/57394605/97401859-eb345000-1934-11eb-8094-2719725d116d.png)
 
 *Step 4*
 
-Attach camera and front panel with six black screws.
+    Attach camera and front panel with six black screws.
 
 ![조립4](https://user-images.githubusercontent.com/57394605/97401863-ec657d00-1934-11eb-9d0d-0157de7cefeb.png)
 
 *Step 5*
 
-Connect the cables as shown in the photo. If you connected them as shown in step one, the cable with the writing facing up should connect to the camera slot.
+    Connect the cables as shown in the photo. If you connected them as shown in step one, the cable with the writing facing up should connect to the camera slot.
 
 ![조립5](https://user-images.githubusercontent.com/57394605/97401864-ecfe1380-1934-11eb-9c57-002fc957a4f5.png)
 
@@ -84,19 +85,19 @@ Assemble the fan onto the fan door. For best results the label should be facing 
 
 *Step 7*
 
-Connect the wire to the GPIO pins. We suggest starting with low speed as it is quieter. If you get the temperature icon in the display, you can always move up to the high speed.
+    Connect the wire to the GPIO pins. We suggest starting with low speed as it is quieter. If you get the temperature icon in the display, you can always move up to the high speed.
 
 ![조립7](https://user-images.githubusercontent.com/57394605/97401867-eec7d700-1934-11eb-8745-4cd1cbe1ae85.png)
 
 *Step 8*
 
-Assemble the door. Be careful not to pinch the white cables.
+    Assemble the door. Be careful not to pinch the white cables.
 
 ![조립8](https://user-images.githubusercontent.com/57394605/97401869-eec7d700-1934-11eb-8bf3-03ae857a07cc.png)
 
 *Step 9*
 
-Assemble the housing onto the base. Important - Hold base on table while adjusting the display angle, then tighten the screws.
+    Assemble the housing onto the base. Important - Hold base on table while adjusting the display angle, then tighten the screws.
 
 ![조립완성](https://user-images.githubusercontent.com/57394605/97402557-123f5180-1936-11eb-95a9-69ad4ebe03d3.png)
 
