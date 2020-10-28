@@ -31,7 +31,7 @@ So, We hope that workers' emotional consumption will be less.
 * SG-90 Servo motor
 * Test Socket Jumper Cable(M/F)
 
-<img src="https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png" alt="drawing" width="800">
+<img src="https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png" alt="drawing" width="680">
 
 
 ## 4-2. Environment
