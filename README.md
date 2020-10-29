@@ -117,7 +117,7 @@ Assemble the housing onto the base. Important - Hold base on table while adjusti
 ### 1. OS
 * Step 1 (Download Raspbian)
 <img src="https://user-images.githubusercontent.com/57394605/97530822-45491a00-19f6-11eb-93ad-63f0428c7447.png" alt="drawing" width="600">
-hop onto your computer and download the Raspbian disc image. you can find the lastest version of Raspbian on the Raspberry Pi Foundation's website [here](https://www.raspberrypi.org/downloads/raspberry-pi-os/ , "OS link").
+hop onto your computer and download the Raspbian disc image. you can find the lastest version of Raspbian on the [Raspberry Pi Foundation's website](https://www.raspberrypi.org/downloads/raspberry-pi-os/ , "OS link").
 
 * Step 2 (Unzip the file)
 
