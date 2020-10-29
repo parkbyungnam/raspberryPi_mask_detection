@@ -117,7 +117,7 @@ Assemble the housing onto the base. Important - Hold base on table while adjusti
 ### 1. OS
 * Step 1 (Download Raspbian)
 <img src="https://user-images.githubusercontent.com/57394605/97530822-45491a00-19f6-11eb-93ad-63f0428c7447.png" alt="drawing" width="600">
-hop onto your computer and download the Raspbian disc image. you can find the lastest version of Raspbian on the Raspberry Pi Foundation's website [here](https://www.raspberrypi.org/downloads/raspberry-pi-os/, "here link").
+hop onto your computer and download the Raspbian disc image. you can find the lastest version of Raspbian on the Raspberry Pi Foundation's website [here](https://www.raspberrypi.org/downloads/raspberry-pi-os, "here link").
 
 * Step 2 (Unzip the file)
 The Raspbian disc image is compressed, so you’ll need to unzip it. The file uses the ZIP64 format, so depending on how current your built-in utilities are, you need to use certain programs to unzip it. If you have any trouble, try these programs recommended by the Raspberry Pi Foundation
@@ -132,7 +132,7 @@ Next, pop your microSD card into your computer and write the disc image to it. Y
   - Linux people, [Etcher](https://www.balena.io/etcher/, "Etcher link") – which also works on Mac and Windows – is what the Raspberry Pi Foundation recommends.
 
 * Step 4 (Put the microSD card in your Pi and boot up
-Your default credentials are username *pi* and password *raspberry*.
+Your default credentials are username **pi** and password **raspberry**.
 
 
 ### 2. SSH & VNC
