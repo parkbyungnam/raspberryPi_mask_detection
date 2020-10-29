@@ -27,6 +27,7 @@ So, We hope that workers' emotional consumption will be less.
 * raspberry Pi 7-inch touch screen
 * power supply 5V 3~4a
 * micro SD card 32GB
+* micro SD card Reader
 * Device case (SmartPi Touch 2 [SM-STV2])
 * SG-90 Servo motor
 * Test Socket Jumper Cable(M/F)
@@ -41,9 +42,10 @@ So, We hope that workers' emotional consumption will be less.
 * numpy
 * matplotlib
   
-You can use this command. However, Some packages are not registered with pip. It will be imcomplete.
+You can use this command. However, Some packages are not registered with pip. It will be imcomplete. So, you can refer to content 5-2.
 
     $ pip install -r requirements.txt
+   
    
 ------
 # 5. Install
@@ -113,6 +115,22 @@ Assemble the housing onto the base. Important - Hold base on table while adjusti
 
 ## 5-2. Build a Software Environment
 ### 1. OS
+* Step 1 (Download Raspbian)
+hop onto your computer and download the Raspbian disc image. you can find the lastest version of Raspbian on the Raspberry Pi Foundation's website here.
+https://www.raspberrypi.org/downloads/raspberry-pi-os/
+
+* Step 2 (Unzip the file)
+The Raspbian disc image is compressed, so you’ll need to unzip it. The file uses the ZIP64 format, so depending on how current your built-in utilities are, you need to use certain programs to unzip it. If you have any trouble, try these programs recommended by the Raspberry Pi Foundation :
+** Windows users, you'll want 7-Zip.
+** Mac users, The Unarchiver is your best bet.
+** Linux users will use the appropriately named Unzip.
+
+* Step 3 (Write the disc image to your microSD card
+Next, pop your microSD card into your computer and write the disc image to it. You’ll need a specific program to do this :
+** Windows users, your answer is [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/, "Win32 link").
+** Mac users, you can use the disk utility that’s already on your machine.
+** Linux people, [Etcher](https://www.balena.io/etcher/,"Etcher link") – which also works on Mac and Windows – is what the Raspberry Pi Foundation recommends.
+
 
 ### 2. SSH & VNC
 
