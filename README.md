@@ -37,7 +37,7 @@ So, We hope that workers' emotional consumption will be less.
 
 ## 4-2. Environment
 * Buster (Release date : 2020-08-20)
-* tensorflow 2.1.0
+* tensorflow 2.2.0
 * OpenCV 4.1.2
 * numpy
 * matplotlib
