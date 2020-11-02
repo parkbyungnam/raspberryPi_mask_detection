@@ -127,7 +127,7 @@ The Raspbian disc image is compressed, so you’ll need to unzip it. The file us
   - Windows users, you'll want 7-Zip.
   - Mac users, The Unarchiver is your best bet.
   - Linux users will use the appropriately named Unzip.
-  
+
 
 
 * Step 3 (Write the disc image to your microSD card)
@@ -136,7 +136,7 @@ Next, pop your microSD card into your computer and write the disc image to it. Y
   - Windows users, your answer is [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/, "Win32 link").
   - Mac users, you can use the disk utility that’s already on your machine.
   - Linux people, [Etcher](https://www.balena.io/etcher/, "Etcher link") – which also works on Mac and Windows – is what the Raspberry Pi Foundation recommends.
-  
+
 
 
 * Step 4 (Put the microSD card in your Pi and boot up)
