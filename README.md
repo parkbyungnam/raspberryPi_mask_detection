@@ -122,6 +122,7 @@ hop onto your computer and download the Raspbian disc image. you can find the la
 
 
 * Step 2 (Unzip the file)
+
 The Raspbian disc image is compressed, so you’ll need to unzip it. The file uses the ZIP64 format, so depending on how current your built-in utilities are, you need to use certain programs to unzip it. If you have any trouble, try these programs recommended by the Raspberry Pi Foundation
   - Windows users, you'll want 7-Zip.
   - Mac users, The Unarchiver is your best bet.
@@ -130,6 +131,7 @@ The Raspbian disc image is compressed, so you’ll need to unzip it. The file us
 
 
 * Step 3 (Write the disc image to your microSD card)
+
 Next, pop your microSD card into your computer and write the disc image to it. You’ll need a specific program to do this
   - Windows users, your answer is [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/, "Win32 link").
   - Mac users, you can use the disk utility that’s already on your machine.
@@ -138,6 +140,7 @@ Next, pop your microSD card into your computer and write the disc image to it. Y
 
 
 * Step 4 (Put the microSD card in your Pi and boot up)
+
 Your default credentials are username **pi** and password **raspberry**.
 
 
