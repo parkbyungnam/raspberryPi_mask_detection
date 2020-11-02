@@ -5,7 +5,7 @@
 
 ------
 # 1. Background, Purpose, and Expected Outcomes
-The spread of Corona 19 made it mandatory to wear a mask in public places.
+Corona19 Pandemic made it mandatory to wear a mask in public places.
 We started to eliminate the trouble between employees and non-masks.
 So, We hope that workers' emotional consumption will be less.
 
