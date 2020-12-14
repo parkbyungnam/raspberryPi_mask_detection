@@ -31,6 +31,7 @@ So, We hope that workers' emotional consumption will be less.
 * Device case (SmartPi Touch 2 [SM-STV2])
 * SG-90 Servo motor
 * Test Socket Jumper Cable(M/F)
+* Google coral Accelerator
 
 <img src="https://user-images.githubusercontent.com/57394605/97400188-05b8fa00-1932-11eb-900d-9abb1ab4906f.png" alt="drawing" width="600">
 
